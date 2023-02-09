@@ -128,6 +128,11 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #Adding JS
 
 config.js 
+=======
+# Ignore the config.js file.
+config.js
+>>>>>>> 4c62e662b6f0a63f28872922d53ab2ef60277e2a
